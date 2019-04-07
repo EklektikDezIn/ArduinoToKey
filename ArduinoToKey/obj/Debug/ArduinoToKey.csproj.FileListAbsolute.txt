@@ -1,0 +1,9 @@
+C:\Users\Micah Richards\Dropbox\Programming\C#\ArduinoToKey\ArduinoToKey\bin\Debug\ArduinoToKey.exe.config
+C:\Users\Micah Richards\Dropbox\Programming\C#\ArduinoToKey\ArduinoToKey\bin\Debug\ArduinoToKey.exe
+C:\Users\Micah Richards\Dropbox\Programming\C#\ArduinoToKey\ArduinoToKey\bin\Debug\ArduinoToKey.pdb
+C:\Users\Micah Richards\Dropbox\Programming\C#\ArduinoToKey\ArduinoToKey\obj\Debug\ArduinoToKey.csprojResolveAssemblyReference.cache
+C:\Users\Micah Richards\Dropbox\Programming\C#\ArduinoToKey\ArduinoToKey\obj\Debug\ArduinoToKey.Form1.resources
+C:\Users\Micah Richards\Dropbox\Programming\C#\ArduinoToKey\ArduinoToKey\obj\Debug\ArduinoToKey.Properties.Resources.resources
+C:\Users\Micah Richards\Dropbox\Programming\C#\ArduinoToKey\ArduinoToKey\obj\Debug\ArduinoToKey.csproj.GenerateResource.Cache
+C:\Users\Micah Richards\Dropbox\Programming\C#\ArduinoToKey\ArduinoToKey\obj\Debug\ArduinoToKey.exe
+C:\Users\Micah Richards\Dropbox\Programming\C#\ArduinoToKey\ArduinoToKey\obj\Debug\ArduinoToKey.pdb
